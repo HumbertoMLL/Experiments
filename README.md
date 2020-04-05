@@ -8,7 +8,7 @@ Esta barrera me freno un tiempo pero la curiosidad me llevo a hacerme muchas pre
 
 -¿Se necesitan matemáticas para programar?
 
-![Gif](https://gph.is/1hjppwZ)
+![Gif](https://giphy.com/gifs/dXICCcws9oxxK/html5)
 
 Me fui en búsqueda de una respuesta con muchos amigos y expertos pero, en la facultad de ciencias de la UNAM me encontré con un profesor que me dio la mejor respuesta y yo lo complemente con unas analogías. La conversación fue algo así:
 

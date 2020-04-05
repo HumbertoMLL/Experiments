@@ -6,9 +6,10 @@ Desde ese momento me deje ir con muchos proyectos que ahora ya son como un clás
 
 Esta barrera me freno un tiempo pero la curiosidad me llevo a hacerme muchas preguntas, hoy te quiero contar sobre una:
 
--¿Se necesitan matemáticas para programar?
+- ¿Se necesitan matemáticas para programar?
+- ¿Qué es programar?
 
-![Gif](https://giphy.com/gifs/dXICCcws9oxxK/html5)
+![gif de Iron Man](https://media.giphy.com/media/dXICCcws9oxxK/giphy.gif)
 
 Me fui en búsqueda de una respuesta con muchos amigos y expertos pero, en la facultad de ciencias de la UNAM me encontré con un profesor que me dio la mejor respuesta y yo lo complemente con unas analogías. La conversación fue algo así:
 
@@ -41,6 +42,7 @@ Esto te lo quiero explicar como quién crea la herramienta 🛠 y quien crea cos
 Los científicos de la computación se pueden dedicar a crear lenguajes de programación, optimizar o crear nuevos algoritmos, investigación, etc.
 Los ingenieros de Software crean programas con esos lenguajes o usan esos algoritmos para crear productos.
 Es aquí donde entra el nivel de matemáticas que necesitas para programar y eso esta directamente relacionado con el área a la que te vas a dedicar, por eso suena mucho con los científicos de computación "Esas son matemáticas de Ingenieros" y las matemáticad de ingenieros pueden ser aplicar formulas, formulas que aplicas con seguridad, porque existe o existió un matemático ó un científico que demostró que eso es cierto y por uso tu puedes afirmar tus resultados confiando en esa formula, de igual manera existen científicos de la computación que de lenguajes de bajo nivel, construyeron lenguajes de alto nivel que resultan más amigables, *no tienes porque ser los dos*, ni limitarte a ser solo uno, pero por lo menos a mi esto me ayudo a entender y decidirme por un área, y delimitar ese mar de conocimientos, si vas a ser ingeniero y resolver problemas usando Python, deberías saber como funciona Python, y entonces ya sabes resolver problemas y conoces al 100% tu herramienta.
+
 
 
 Si quieres seguir la conversación puedes encontrarme en Twitter como @HumbertMLL y en Instagram como @HumbertoMLL

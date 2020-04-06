@@ -40,3 +40,21 @@ Te voy a contar otra plática con ese profesor, un día discutimos este punto y 
 
 Decidimos preguntar a más programadores entonces empezamos a ver patrones en los programadores, muchos decían no necesitas las matemáticas para programar, hasta darnos cuenta que varios entendían las matemáticas como solo la materia de _cálculo_, pero buscando un poco más descubrimos que hay gente que usa álgebra para hacer las abstracciones de sus problemas, otras personas usan *geometría*, la gran mayoría no usa *cálculo*, y esto no es porque *cálculo* no sirva para abstraer problemas, entra el factor de que *cálculo* a mucha gente le resulta difícil, y si no ven una solución a un problema, mucho menos van a querer plantearlo en una diferencial o una integral o cosas más complejas, lo van a llevar en un contexto amigable para ellos, así que desde este punto de vista puede que no necesites las matemáticas para resolver problemas, si tu logras abstraer los problemas de otra forma y encontrar una solución, solo que las matemáticas son una de las formas más utilizadas, porque son lógicas.(Hasta cierta dimensión son lógicas, cuando te hablan de ecuaciones diferenciales en n dimensiones puede empezar a parecer que pierden la lógica 🤯)
 
+Eso me dejó conforme pero no satisfecho, así que eso me llevó a una pregunta ¿Hasta qué nivel de matemáticas necesito saber? Es aquí donde entra la diferencia entre Software Engineer vs Computer Science.
+Hay científicos de la computación que no tocan código, y aunque suena raro es real.
+
+Esto te lo quiero explicar cómo quién crea la herramienta 🛠 y quien crea cosas con esa herramienta 👨🏻‍🔧.
+
+Los científicos de la computación se pueden dedicar a crear lenguajes de programación, optimizar o crear nuevos algoritmos, investigación, etc.
+
+Los ingenieros de Software crean programas con esos lenguajes o usan esos algoritmos para crear productos.
+Es aquí donde entra el nivel de matemáticas que necesitas para programar y eso está directamente relacionado con el área a la que te vas a dedicar, por eso suena mucho con los científicos de computación "Esas son matemáticas de Ingenieros" y las matemáticas de ingenieros pueden ser aplicar formulas, formulas que aplicas con seguridad, porque existe o existió un matemático ó un científico que demostró que eso es cierto y por uso tu puedes afirmar tus resultados confiando en esa fórmula, de igual manera existen científicos de la computación que de lenguajes de bajo nivel, construyeron lenguajes de alto nivel que resultan más amigables.
+
+Esta relación se da en muchas áreas te daré unos ejemplos, un coche lo diseñan primero, y se crea y luego llega a plantas donde los ensamblan, eso requiere ingenieros, científicos, diseñadores, etc. Otro ejemplo no hay un paciente sano sin un Doctor que lo opere, y un enfermero que lo cuide en su recuperación. No hay Batman sin Robin, y no hay Robin sin Batman, uno no es mejor que otro, solo son funciones diferentes, si no existieran científicos, no habría ingenieros creando genialidades con lo que los científicos probaron teóricamente, es una mezcla que tiene resultados increíbles. 
+
+Esto no quiere decir que te limites a un área, pero esto a mi me ayudo a decidir, qué área escoger para delimitar los temas a estudiar y decidir cúal era el camino a seguir, espero te ayude en tu crecimiento!. 
+
+Si quieres seguir la conversación puedes encontrarme en Twitter como @HumbertMLL y en Instagram como @HumbertoMLL.
+
+Te espero en un próximo blog!
+
